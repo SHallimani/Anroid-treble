@@ -18,7 +18,7 @@ Android Architecture Before Oreo (8.0)
 		   ---------------------------------------            ---------------------------------
                \                                     /            \                               /
                 \     Android Framework Api's       /              \    Android Framework Api's  /
-                 \                                 /                \                           /
+                 \---------------------------------/                \---------------------------/
    -------------------------------------------------------------------------------------------------------------------------
 		Android Application communicates with Framework over the Google Exported API's 
 			                     These Application uses Binder RPS calls (AIDL)
